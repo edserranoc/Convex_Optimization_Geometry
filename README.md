@@ -1,1 +1,1 @@
-# Convex_Optimization_Geometry
+# Convex Optimization (Geometry Problems)
